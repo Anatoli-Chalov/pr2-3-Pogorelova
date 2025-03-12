@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.04\CarLibrary\CarLibrary\bin\Debug\CarLibrary.dll
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.04\CarLibrary\CarLibrary\bin\Debug\CarLibrary.pdb
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.04\CarLibrary\CarLibrary\obj\Debug\CarLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.04\CarLibrary\CarLibrary\obj\Debug\CarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.04\CarLibrary\CarLibrary\obj\Debug\CarLibrary.dll
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.04\CarLibrary\CarLibrary\obj\Debug\CarLibrary.pdb
