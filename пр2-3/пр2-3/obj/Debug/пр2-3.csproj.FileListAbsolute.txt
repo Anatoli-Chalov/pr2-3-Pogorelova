@@ -1,0 +1,8 @@
+C:\Users\Пользователь\Source\Repos\pr2-3-Pogorelova\пр2-3\пр2-3\bin\Debug\пр2-3.exe.config
+C:\Users\Пользователь\Source\Repos\pr2-3-Pogorelova\пр2-3\пр2-3\bin\Debug\пр2-3.exe
+C:\Users\Пользователь\Source\Repos\pr2-3-Pogorelova\пр2-3\пр2-3\bin\Debug\пр2-3.pdb
+C:\Users\Пользователь\Source\Repos\pr2-3-Pogorelova\пр2-3\пр2-3\obj\Debug\пр2-3.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Source\Repos\pr2-3-Pogorelova\пр2-3\пр2-3\obj\Debug\пр2-3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Source\Repos\pr2-3-Pogorelova\пр2-3\пр2-3\obj\Debug\пр2-3.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Source\Repos\pr2-3-Pogorelova\пр2-3\пр2-3\obj\Debug\пр2-3.exe
+C:\Users\Пользователь\Source\Repos\pr2-3-Pogorelova\пр2-3\пр2-3\obj\Debug\пр2-3.pdb

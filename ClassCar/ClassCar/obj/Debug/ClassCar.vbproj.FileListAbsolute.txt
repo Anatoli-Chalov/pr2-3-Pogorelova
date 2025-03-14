@@ -1,0 +1,15 @@
+C:\Users\Пользователь\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\bin\Debug\ClassCar.exe.config
+C:\Users\Пользователь\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\bin\Debug\ClassCar.exe
+C:\Users\Пользователь\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\bin\Debug\ClassCar.pdb
+C:\Users\Пользователь\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\bin\Debug\ClassCar.xml
+C:\Users\Пользователь\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\bin\Debug\CarLibrary.dll
+C:\Users\Пользователь\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\bin\Debug\CarLibrary.pdb
+C:\Users\Пользователь\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\obj\Debug\ClassCar.vbproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\obj\Debug\ClassCar.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\obj\Debug\ClassCar.Resources.resources
+C:\Users\Пользователь\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\obj\Debug\ClassCar.vbproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\obj\Debug\ClassCar.vbproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\obj\Debug\ClassCar.vbproj.CopyComplete
+C:\Users\Пользователь\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\obj\Debug\ClassCar.exe
+C:\Users\Пользователь\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\obj\Debug\ClassCar.xml
+C:\Users\Пользователь\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\obj\Debug\ClassCar.pdb
