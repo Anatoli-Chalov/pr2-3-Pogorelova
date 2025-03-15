@@ -13,3 +13,17 @@ C:\Users\Пользователь\source\repos\pr2-3-Pogorelova\ClassCar\ClassCa
 C:\Users\Пользователь\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\obj\Debug\ClassCar.exe
 C:\Users\Пользователь\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\obj\Debug\ClassCar.xml
 C:\Users\Пользователь\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\obj\Debug\ClassCar.pdb
+C:\Users\User\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\bin\Debug\ClassCar.exe.config
+C:\Users\User\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\bin\Debug\ClassCar.exe
+C:\Users\User\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\bin\Debug\ClassCar.pdb
+C:\Users\User\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\bin\Debug\ClassCar.xml
+C:\Users\User\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\bin\Debug\CarLibrary.dll
+C:\Users\User\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\bin\Debug\CarLibrary.pdb
+C:\Users\User\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\obj\Debug\ClassCar.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\obj\Debug\ClassCar.Resources.resources
+C:\Users\User\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\obj\Debug\ClassCar.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\obj\Debug\ClassCar.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\obj\Debug\ClassCar.vbproj.Up2Date
+C:\Users\User\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\obj\Debug\ClassCar.exe
+C:\Users\User\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\obj\Debug\ClassCar.xml
+C:\Users\User\source\repos\pr2-3-Pogorelova\ClassCar\ClassCar\obj\Debug\ClassCar.pdb

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 namespace CarLibrary
 {
     // Представляет состояние двигателя.
@@ -26,6 +27,21 @@ namespace CarLibrary
             MaxSpeed = maxSp;
             CurrentSpeed = currSp;
         }
+
+        public void TurnOnRadio(bool musicOn, MusicMedia mm)
+        {
+            if (musicOn) MessageBox.Show(string.Format("Jamming {0}", mm));
+            else MessageBox.Show("Quiet time...");
+        }
+
+        public enum MusicMedia
+        {
+            musicCd, // 0
+            musicTape, // 1
+            musicRadio, // 2
+            musicMp3 // 3
+        }
+
     }
 }
 

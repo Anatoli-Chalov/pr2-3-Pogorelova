@@ -19,3 +19,13 @@ C:\Users\Пользователь\Source\Repos\pr2-3-Pogorelova\CSharpCarClient\
 C:\Users\Пользователь\Source\Repos\pr2-3-Pogorelova\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.csproj.CopyComplete
 C:\Users\Пользователь\Source\Repos\pr2-3-Pogorelova\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.exe
 C:\Users\Пользователь\Source\Repos\pr2-3-Pogorelova\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.pdb
+C:\Users\User\source\repos\pr2-3-Pogorelova\CSharpCarClient\CSharpCarClient\bin\Debug\CSharpCarClient.exe.config
+C:\Users\User\source\repos\pr2-3-Pogorelova\CSharpCarClient\CSharpCarClient\bin\Debug\CSharpCarClient.exe
+C:\Users\User\source\repos\pr2-3-Pogorelova\CSharpCarClient\CSharpCarClient\bin\Debug\CSharpCarClient.pdb
+C:\Users\User\source\repos\pr2-3-Pogorelova\CSharpCarClient\CSharpCarClient\bin\Debug\CarLibrary.dll
+C:\Users\User\source\repos\pr2-3-Pogorelova\CSharpCarClient\CSharpCarClient\bin\Debug\CarLibrary.pdb
+C:\Users\User\source\repos\pr2-3-Pogorelova\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\pr2-3-Pogorelova\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\pr2-3-Pogorelova\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCa.AD425495.Up2Date
+C:\Users\User\source\repos\pr2-3-Pogorelova\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.exe
+C:\Users\User\source\repos\pr2-3-Pogorelova\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\pr2-3-Pogorelova\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\pr2-3-Pogorelova\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\pr2-3-Pogorelova\LateBindingApp\LateBindingApp\bin\Debug\LateBindingApp.exe.config
+C:\Users\User\source\repos\pr2-3-Pogorelova\LateBindingApp\LateBindingApp\bin\Debug\LateBindingApp.exe
+C:\Users\User\source\repos\pr2-3-Pogorelova\LateBindingApp\LateBindingApp\bin\Debug\LateBindingApp.pdb
+C:\Users\User\source\repos\pr2-3-Pogorelova\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.exe
+C:\Users\User\source\repos\pr2-3-Pogorelova\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.pdb
